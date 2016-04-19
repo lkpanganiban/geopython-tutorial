@@ -1,4 +1,4 @@
-#FOSS4G 2016 GeoPython Workshop
+# FOSS4G 2016 GeoPython Workshop
 ## Setup Guide
 1. Download Miniconda with the appropriate version of your operating system using the following link: [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)
 2. Install Miniconda using the installer and check all the boxes if prompted.
@@ -18,5 +18,5 @@
 ## Reminders
  - Bring your Laptop
  - Laptop Charger
- - Internet Donggles
+ - Internet Dongles
  - Yourself

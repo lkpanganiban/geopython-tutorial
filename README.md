@@ -1,7 +1,8 @@
 # FOSS4G PH 2016 GeoPython Workshop
 ## Setup Guide
 1. Download Miniconda with the appropriate version for your operating system using the following link: [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)
-2. Install Miniconda using the installer and check all the boxes when prompted.
+2. Install Miniconda using the installer and check all the boxes when prompted. <br />
+   **Note:** If you have a previous installation of python, you don't need to check the second box.
 3. After installing miniconda, open your command prompt.
 4. Type the following in your command prompt to install the required packages<br />
    - `conda install jupyter`

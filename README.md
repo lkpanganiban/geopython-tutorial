@@ -1,4 +1,6 @@
 # FOSS4G PH 2016 GeoPython Workshop
+Notebook url: [https://nbviewer.jupyter.org/github/lkpanganiban/geopython-tutorial/blob/master/GeoPython%20Workshop.ipynb](https://nbviewer.jupyter.org/github/lkpanganiban/geopython-tutorial/blob/master/GeoPython%20Workshop.ipynb)
+
 ## Setup Guide
 1. Download Miniconda with the appropriate version for your operating system (32 or 64 bit)  using the following link: [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html) Download the Python 2.7 version.
 2. Install Miniconda using the installer and check all the boxes when prompted. <br />

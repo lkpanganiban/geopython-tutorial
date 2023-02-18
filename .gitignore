@@ -1,2 +1,3 @@
 data/raster/*
 env/
+.ipynb_checkpoints
